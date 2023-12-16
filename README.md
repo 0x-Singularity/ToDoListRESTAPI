@@ -15,7 +15,7 @@ Installation
 Clone the repository to your local machine:
 
 ```bash
-git clone [repository-url]
+git clone [https://github.com/0xGrizzly/ToDoListRESTAPI.git]
 ```
 
 Navigate to the project directory:
